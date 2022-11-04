@@ -1,0 +1,13 @@
+package com.solera.hpel.assessment;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AssessmentApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
